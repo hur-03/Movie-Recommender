@@ -9,6 +9,7 @@ This project is a Movie Recommendation System built using Python, Flask, and Mac
 - Hybrid Recommendation System
 
 The application is deployed using Flask and containerised with Docker.
+
 Model files are not attached as size is too large, files must be generated locally before running the application
 
 ---
