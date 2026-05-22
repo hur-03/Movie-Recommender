@@ -74,7 +74,7 @@ Files used:
 
 ## How to Run
 ### 1. Clone the repository
-### 2. Install dependecies: pip install -r requirements.txt
+### 2. Install dependencies: pip install -r requirements.txt
 ### 3. Run the notebook to generate files (movies.pkl, content_similarity.pkl, user_movie_matrix.pkl, user_similarity.pkl) locally
 ### 4. Run the Flask app: python app.py
 
